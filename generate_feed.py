@@ -62,7 +62,7 @@ def create_feed(latest_num, count=11, feed_file='explainxkcd.xml'):
     fg.link(href='https://www.explainxkcd.com', rel='alternate')
     fg.description('Scraped explanations and comics from explainxkcd.com')
 
-    feed_url = "https://yourusername.github.io/explainxkcd-rss/explainxkcd.xml"  # CHANGE THIS to your real URL
+    feed_url = "https://pustelnik89.github.io/explainxkcd-rss/explainxkcd.xml"
     fg.link(href=feed_url, rel='self')
 
     start_num = max(1, latest_num - count + 1)
