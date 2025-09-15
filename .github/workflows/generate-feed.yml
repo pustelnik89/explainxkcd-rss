@@ -28,6 +28,8 @@ jobs:
         python generate_feed.py
 
     - name: Commit and push RSS feed
+      env:
+      GH_TOKEN: ${{ secrets.SECRET }}
       run: |
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
