@@ -1,2 +1,230 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Explain XKCD Comics</title><link>https://www.explainxkcd.com</link><description>Scraped explanations and comics from explainxkcd.com</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><lastBuildDate>Mon, 15 Sep 2025 12:03:01 +0000</lastBuildDate><item><title>xkcd #10</title><link>https://www.explainxkcd.com/wiki/index.php/10</link><description>&lt;img src="https://www.explainxkcd.com/wiki/images/c/c5/pi.jpg" alt="XKCD comic #10"&gt;&lt;br/&gt;</description><guid isPermaLink="false">https://www.explainxkcd.com/wiki/index.php/10</guid></item><item><title>xkcd #9</title><link>https://www.explainxkcd.com/wiki/index.php/9</link><description>&lt;img src="https://www.explainxkcd.com/wiki/images/e/e4/firefly.jpg" alt="XKCD comic #9"&gt;&lt;br/&gt;</description><guid isPermaLink="false">https://www.explainxkcd.com/wiki/index.php/9</guid></item><item><title>xkcd #8</title><link>https://www.explainxkcd.com/wiki/index.php/8</link><description>&lt;img src="https://www.explainxkcd.com/wiki/images/c/c6/red_spiders_small.jpg" alt="XKCD comic #8"&gt;&lt;br/&gt;</description><guid isPermaLink="false">https://www.explainxkcd.com/wiki/index.php/8</guid></item><item><title>xkcd #7</title><link>https://www.explainxkcd.com/wiki/index.php/7</link><description>&lt;img src="https://www.explainxkcd.com/wiki/images/thumb/c/c8/Ambox_notice.png/40px-Ambox_notice.png" alt="XKCD comic #7"&gt;&lt;br/&gt;</description><guid isPermaLink="false">https://www.explainxkcd.com/wiki/index.php/7</guid></item><item><title>xkcd #6</title><link>https://www.explainxkcd.com/wiki/index.php/6</link><description>&lt;img src="https://www.explainxkcd.com/wiki/images/1/11/irony_color.jpg" alt="XKCD comic #6"&gt;&lt;br/&gt;</description><guid isPermaLink="false">https://www.explainxkcd.com/wiki/index.php/6</guid></item><item><title>xkcd #5</title><link>https://www.explainxkcd.com/wiki/index.php/5</link><description>&lt;img src="https://www.explainxkcd.com/wiki/images/6/62/blownapart_color.jpg" alt="XKCD comic #5"&gt;&lt;br/&gt;</description><guid isPermaLink="false">https://www.explainxkcd.com/wiki/index.php/5</guid></item><item><title>xkcd #4</title><link>https://www.explainxkcd.com/wiki/index.php/4</link><description>&lt;img src="https://www.explainxkcd.com/wiki/images/f/ff/landscape_cropped_%281%29.jpg" alt="XKCD comic #4"&gt;&lt;br/&gt;</description><guid isPermaLink="false">https://www.explainxkcd.com/wiki/index.php/4</guid></item><item><title>xkcd #3</title><link>https://www.explainxkcd.com/wiki/index.php/3</link><description>&lt;img src="https://www.explainxkcd.com/wiki/images/7/78/island_color.jpg" alt="XKCD comic #3"&gt;&lt;br/&gt;</description><guid isPermaLink="false">https://www.explainxkcd.com/wiki/index.php/3</guid></item><item><title>xkcd #2</title><link>https://www.explainxkcd.com/wiki/index.php/2</link><description>&lt;img src="https://www.explainxkcd.com/wiki/images/3/3e/tree_cropped_%281%29.jpg" alt="XKCD comic #2"&gt;&lt;br/&gt;</description><guid isPermaLink="false">https://www.explainxkcd.com/wiki/index.php/2</guid></item><item><title>xkcd #1</title><link>https://www.explainxkcd.com/wiki/index.php/1</link><description>&lt;img src="https://www.explainxkcd.com/wiki/images/thumb/c/c8/Ambox_notice.png/40px-Ambox_notice.png" alt="XKCD comic #1"&gt;&lt;br/&gt;</description><guid isPermaLink="false">https://www.explainxkcd.com/wiki/index.php/1</guid></item></channel></rss>
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  
+  
+  <channel>
+    
+    
+    <title>Explain XKCD Comics</title>
+    
+    
+    <link>https://yourusername.github.io/explainxkcd-rss/explainxkcd.xml</link>
+    
+    
+    <description>Scraped explanations and comics from explainxkcd.com</description>
+    
+    
+    <atom:link href="https://yourusername.github.io/explainxkcd-rss/explainxkcd.xml" rel="self"/>
+    
+    
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    
+    
+    <generator>python-feedgen</generator>
+    
+    
+    <lastBuildDate>Mon, 15 Sep 2025 13:26:55 +0000</lastBuildDate>
+    
+    
+    <item>
+      
+      
+      <title>xkcd #3141</title>
+      
+      
+      <link>https://www.explainxkcd.com/wiki/index.php/3141</link>
+      
+      
+      <description>&lt;img src=&quot;https://www.explainxkcd.com/wiki/images/thumb/6/63/mantle_model_2x.png/526px-mantle_model_2x.png&quot; alt=&quot;XKCD comic #3141&quot;&gt;&lt;br/&gt;</description>
+      
+      
+      <guid isPermaLink="false">https://www.explainxkcd.com/wiki/index.php/3141</guid>
+      
+    
+    </item>
+    
+    
+    <item>
+      
+      
+      <title>xkcd #3140</title>
+      
+      
+      <link>https://www.explainxkcd.com/wiki/index.php/3140</link>
+      
+      
+      <description>&lt;img src=&quot;https://www.explainxkcd.com/wiki/images/thumb/9/93/biology_department_2x.png/558px-biology_department_2x.png&quot; alt=&quot;XKCD comic #3140&quot;&gt;&lt;br/&gt;</description>
+      
+      
+      <guid isPermaLink="false">https://www.explainxkcd.com/wiki/index.php/3140</guid>
+      
+    
+    </item>
+    
+    
+    <item>
+      
+      
+      <title>xkcd #3139</title>
+      
+      
+      <link>https://www.explainxkcd.com/wiki/index.php/3139</link>
+      
+      
+      <description>&lt;img src=&quot;https://www.explainxkcd.com/wiki/images/thumb/9/99/chess_variant_2x.png/310px-chess_variant_2x.png&quot; alt=&quot;XKCD comic #3139&quot;&gt;&lt;br/&gt;</description>
+      
+      
+      <guid isPermaLink="false">https://www.explainxkcd.com/wiki/index.php/3139</guid>
+      
+    
+    </item>
+    
+    
+    <item>
+      
+      
+      <title>xkcd #3138</title>
+      
+      
+      <link>https://www.explainxkcd.com/wiki/index.php/3138</link>
+      
+      
+      <description>&lt;img src=&quot;https://www.explainxkcd.com/wiki/images/thumb/3/3b/dimensional_lumber_tape_measure_2x.png/532px-dimensional_lumber_tape_measure_2x.png&quot; alt=&quot;XKCD comic #3138&quot;&gt;&lt;br/&gt;</description>
+      
+      
+      <guid isPermaLink="false">https://www.explainxkcd.com/wiki/index.php/3138</guid>
+      
+    
+    </item>
+    
+    
+    <item>
+      
+      
+      <title>xkcd #3137</title>
+      
+      
+      <link>https://www.explainxkcd.com/wiki/index.php/3137</link>
+      
+      
+      <description>&lt;img src=&quot;https://www.explainxkcd.com/wiki/images/thumb/8/85/cursed_number_2x.png/388px-cursed_number_2x.png&quot; alt=&quot;XKCD comic #3137&quot;&gt;&lt;br/&gt;</description>
+      
+      
+      <guid isPermaLink="false">https://www.explainxkcd.com/wiki/index.php/3137</guid>
+      
+    
+    </item>
+    
+    
+    <item>
+      
+      
+      <title>xkcd #3136</title>
+      
+      
+      <link>https://www.explainxkcd.com/wiki/index.php/3136</link>
+      
+      
+      <description>&lt;img src=&quot;https://www.explainxkcd.com/wiki/images/thumb/d/d8/pull_2x.png/649px-pull_2x.png&quot; alt=&quot;XKCD comic #3136&quot;&gt;&lt;br/&gt;</description>
+      
+      
+      <guid isPermaLink="false">https://www.explainxkcd.com/wiki/index.php/3136</guid>
+      
+    
+    </item>
+    
+    
+    <item>
+      
+      
+      <title>xkcd #3135</title>
+      
+      
+      <link>https://www.explainxkcd.com/wiki/index.php/3135</link>
+      
+      
+      <description>&lt;img src=&quot;https://www.explainxkcd.com/wiki/images/thumb/5/5e/sea_level_2x.png/320px-sea_level_2x.png&quot; alt=&quot;XKCD comic #3135&quot;&gt;&lt;br/&gt;</description>
+      
+      
+      <guid isPermaLink="false">https://www.explainxkcd.com/wiki/index.php/3135</guid>
+      
+    
+    </item>
+    
+    
+    <item>
+      
+      
+      <title>xkcd #3134</title>
+      
+      
+      <link>https://www.explainxkcd.com/wiki/index.php/3134</link>
+      
+      
+      <description>&lt;img src=&quot;https://www.explainxkcd.com/wiki/images/thumb/0/0f/wavefunction_collapse_2x.png/656px-wavefunction_collapse_2x.png&quot; alt=&quot;XKCD comic #3134&quot;&gt;&lt;br/&gt;</description>
+      
+      
+      <guid isPermaLink="false">https://www.explainxkcd.com/wiki/index.php/3134</guid>
+      
+    
+    </item>
+    
+    
+    <item>
+      
+      
+      <title>xkcd #3133</title>
+      
+      
+      <link>https://www.explainxkcd.com/wiki/index.php/3133</link>
+      
+      
+      <description>&lt;img src=&quot;https://www.explainxkcd.com/wiki/images/thumb/8/80/dual_roomba_2x.png/679px-dual_roomba_2x.png&quot; alt=&quot;XKCD comic #3133&quot;&gt;&lt;br/&gt;</description>
+      
+      
+      <guid isPermaLink="false">https://www.explainxkcd.com/wiki/index.php/3133</guid>
+      
+    
+    </item>
+    
+    
+    <item>
+      
+      
+      <title>xkcd #3132</title>
+      
+      
+      <link>https://www.explainxkcd.com/wiki/index.php/3132</link>
+      
+      
+      <description>&lt;img src=&quot;https://www.explainxkcd.com/wiki/images/thumb/8/8f/coastline_similarity_2x.png/553px-coastline_similarity_2x.png&quot; alt=&quot;XKCD comic #3132&quot;&gt;&lt;br/&gt;</description>
+      
+      
+      <guid isPermaLink="false">https://www.explainxkcd.com/wiki/index.php/3132</guid>
+      
+    
+    </item>
+    
+    
+    <item>
+      
+      
+      <title>xkcd #3131</title>
+      
+      
+      <link>https://www.explainxkcd.com/wiki/index.php/3131</link>
+      
+      
+      <description>&lt;img src=&quot;https://www.explainxkcd.com/wiki/images/thumb/4/43/cesium_2x.png/588px-cesium_2x.png&quot; alt=&quot;XKCD comic #3131&quot;&gt;&lt;br/&gt;</description>
+      
+      
+      <guid isPermaLink="false">https://www.explainxkcd.com/wiki/index.php/3131</guid>
+      
+    
+    </item>
+    
+  
+  </channel>
+  
+
+</rss>
