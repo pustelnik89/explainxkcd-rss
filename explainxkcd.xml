@@ -8,13 +8,13 @@
     <title>Explain XKCD Comics</title>
     
     
-    <link>https://yourusername.github.io/explainxkcd-rss/explainxkcd.xml</link>
+    <link>https://pustelnik89.github.io/explainxkcd-rss/explainxkcd.xml</link>
     
     
     <description>Scraped explanations and comics from explainxkcd.com</description>
     
     
-    <atom:link href="https://yourusername.github.io/explainxkcd-rss/explainxkcd.xml" rel="self"/>
+    <atom:link href="https://pustelnik89.github.io/explainxkcd-rss/explainxkcd.xml" rel="self"/>
     
     
     <docs>http://www.rssboard.org/rss-specification</docs>
@@ -23,7 +23,7 @@
     <generator>python-feedgen</generator>
     
     
-    <lastBuildDate>Mon, 15 Sep 2025 13:26:55 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 15 Sep 2025 13:30:11 +0000</lastBuildDate>
     
     
     <item>
